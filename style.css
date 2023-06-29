@@ -24,6 +24,7 @@
 .border {
     background-color: rgb(247, 247, 247);
     padding-top: 30px;
+
 }
 
 /* -----------------SEPERATION-----------------*/
@@ -51,7 +52,6 @@
 /* -----------------SEPERATION-----------------*/
 
 .description-container, .image-container {
-    margin-right: 20px;
     vertical-align: top;
 }
 
@@ -61,6 +61,7 @@
     /* border-style: solid; */
     display: inline-block;
     margin-left: 10px;
+    margin-right: 10px;
     background-color: rgb(230, 230, 230);
     border-radius: 5px;
     padding-top: 10px;
