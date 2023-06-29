@@ -11,7 +11,7 @@
 
 #title {
     margin-bottom: 50px;
-    font-size: 35px;
+    font-size: 50px;
     font-family: Roboto;
     text-transform: uppercase;
 }
@@ -47,6 +47,8 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: 0 10px;
+
 }
 
 /* -----------------SEPERATION-----------------*/
@@ -56,7 +58,7 @@
 }
 
 .description-container {
-    margin-top: 10px;
+    margin-top: 20px;
     width: 320px;
     /* border-style: solid; */
     display: inline-block;
@@ -72,19 +74,18 @@
 
 .subject-title {
     font-weight: bold;
-    font-size: 16px;
-    font-size: large;
+    font-size: 30px
 }
 
 .subject-credits {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
+    font-size: 13px;
     margin-bottom: 5px;
     color: gray;
 } 
 
 .subject-description {
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .subject-title, .subject-description {
